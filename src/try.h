@@ -1,0 +1,4 @@
+namespace nmFeatTry
+{
+	void featTryMain();
+}
