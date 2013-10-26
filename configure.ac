@@ -1,7 +1,7 @@
 dnl Process this file with autoconf to produce a configure script.
 dnl Created by Anjuta application wizard.
 
-AC_INIT(opencrakular, DB-2013-10-25)
+AC_INIT(opencrakular, DB-2013-10-26)
 
 AC_CONFIG_HEADERS([config.h])
 

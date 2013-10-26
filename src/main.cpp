@@ -49,8 +49,8 @@ int main(int argc, char** argv)
 		feat = FEAT_TRY;
 	else if(argc >= 4 && strcmp(argv[1], "dict") == 0)
 		feat = FEAT_READ_DICT;
-	else if(argc >= 4 && strcmp(argv[1], "build-dict") == 0)
-		feat = FEAT_BUILD_DICT;
+	//else if(argc >= 4 && strcmp(argv[1], "build-dict") == 0)
+	//	feat = FEAT_BUILD_DICT;
 	else
 		terminate("Wrong arguments.\nPlease read user manual to get more information.\n", 1, false);
 	
